@@ -1,0 +1,26 @@
+# Dossiers de build (généralement nommés build-NomDuProjet-...)
+build*/
+
+# Fichiers de configuration spécifiques à l'utilisateur QtCreator
+*.user
+*.user.*
+
+# Fichiers compilés et objets
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Fichiers générés par QMake / CMake
+Makefile*
+.qmake.stash
+*.pro.user
+/CMakeLists.txt.user
+
+# Dossiers spécifiques à l'IDE
+.qtcreator/
+.vscode/
+.idea/
