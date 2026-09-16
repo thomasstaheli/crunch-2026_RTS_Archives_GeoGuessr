@@ -1,6 +1,10 @@
 # Archives Guessr - RTS Archives
 
-Ce projet a été réalisée lors du Crunch 2026 à l'HEIG-VD, pendant 1.5 jours. Cette application n'est pas complétement terminle, mais elle permet de donner un premier aperçu d'un jeu que l'équipe RTS Archives peut mettre en place afin d'enrichir la participation des spectateurs.
+Ce projet a été réalisée lors du Crunch 2026 à l'HEIG-VD, pendant 1.5 jours. Cette application n'est pas complétement terminée, mais elle permet de donner un premier aperçu d'un jeu que l'équipe RTS Archives peut mettre en place afin d'enrichir la participation des spectateurs.
+
+## Outils utilisés
+
+- **QTCreator** : Pour l'interface et la logique du jeu en C++
 
 ### Jeu
 
